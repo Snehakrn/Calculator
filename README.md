@@ -1,6 +1,4 @@
 # Calculator
-# 🧮 Calculator
-
 📝 This is a simple calculator application that allows you to perform basic arithmetic operations using emojis! 🎉
 
 ## 📚 Features
